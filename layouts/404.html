@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+  {{ partial "head.html" . }}
+  <body>
+    <main>
+      {{ partial "header.html" . }}
+      <section class="article">
+        <div class="article-header">
+          <h2 class="article-title">
+            Oops! its 404
+          </h2>
+        </div>
+        <div class="content">
+          Oops! this page dosen't exists, head back to <a href="{{site.BaseURL}}">Homepage</a>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>

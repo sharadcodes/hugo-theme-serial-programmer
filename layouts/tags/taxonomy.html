@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  {{ partial "head.html" . }}
+  <body>
+    <main>
+      {{ partial "header.html" . }}
+      <!-- {{ partial "bio.html" . }} -->
+      <h2>Tag: {{.Title}}</h2>
+      <section class="articles">
+        {{ range .Paginator.Pages }}
+        <article class="article">
+          <h2 class="article-title">
+            <a href="{{ .Permalink }}" title="{{ .Title }}"> {{ .Title }} </a>
+          </h2>
+          <small class="date">{{ .Date.Format "Mon Jan 2, 2006" }}</small>
+          <div class="tags">
+            {{ range .Params.Tags }}
+            <a href="{{site.BaseURL}}tags/{{ . }}" class="tag">{{ . }}</a>
+            {{ end }}
+          </div>
+        </article>
+        {{ end }}
+      </section>
+      {{ partial "footer.html" . }}
+    </main>
+  </body>
+</html>

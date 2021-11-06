@@ -1,0 +1,15 @@
+<section id="bio">
+  <section id="img-wrapper">
+    <img src="{{site.Data.author.dp}}" alt="" />
+  </section>
+  <section id="bio-wrapper">
+    <div id="text-wrapper">{{ safeHTML site.Data.author.description }}</div>
+    <div id="social-wrapper">
+      {{ range site.Data.author.contact }}
+      <a href="{{ .url }}" target="_blank">
+        <img src="{{ site.BaseURL }}/assets/icons/{{ .title }}.png" alt="" />
+      </a>
+      {{ end }}
+    </div>
+  </section>
+</section>

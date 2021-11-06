@@ -1,0 +1,25 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "{{ .Site.Title }}",
+  "home_page_url": "{{ .Site.BaseURL }}",
+  "feed_url": "{{ .Permalink}}",
+{{ if isset .Site.Params "description" }}
+"description": "{{ .Site.Params.description }}",
+{{ end }}
+{{ if isset .Site.Params "author" }}
+"author": { "name": "{{ .Site.Params.author }}" },
+{{ end }}
+  "items": [
+  {{ range $i, $e := first 20 (.Paginate ( where site.RegularPages "Section" "posts" ).ByDate.Reverse).Pages }}
+  {{ if $i }}, {{ end }}
+    {
+      "id": "{{ .Permalink }}",
+      "title": "{{ .Title }}",
+      "content_text": {{ .Summary | jsonify }},
+      "url": "{{ .Permalink }}",
+      "date_published": "{{ .Date }}",
+      "tags": ["{{ delimit .Params.tags "," }}"]
+    }
+  {{ end }}
+  ]
+}

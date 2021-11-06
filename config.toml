@@ -1,0 +1,21 @@
+baseURL = ""
+languageCode = "en-us"
+title = "Jekyll Serial Programmer"
+rssLimit = 20
+copyright = "2021 Janne Kemppainen All rights reserved"
+minify = false
+
+[Author]
+  name = "sharadcodes"
+  email = "me@example.com"
+
+[permalinks]
+  posts = "/:year/:month/:day/:filename"
+  pages = "/:slug"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[outputs]
+  home = ["html", "json", "rss"]
