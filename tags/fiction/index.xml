@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>fiction on Jekyll Serial Programmer</title>
+    <title>fiction on Hugo Serial Programmer</title>
     <link>/hugo-theme-serial-programmer/tags/fiction/</link>
-    <description>Recent content in fiction on Jekyll Serial Programmer</description>
+    <description>Recent content in fiction on Hugo Serial Programmer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>me@example.com (sharadcodes)</managingEditor>
