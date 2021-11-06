@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>/tags/hugo/</loc>
+    <lastmod>2021-11-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/2021/11/04/hugo-markdown/</loc>
+    <lastmod>2021-11-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2021-11-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2021-11-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2021-11-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/fiction/</loc>
+    <lastmod>1948-12-12T10:18:00+00:00</lastmod>
+  </url><url>
+    <loc>/1948/12/12/the-purpose-of-education/</loc>
+    <lastmod>1948-12-12T10:18:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+  </url>
+</urlset>

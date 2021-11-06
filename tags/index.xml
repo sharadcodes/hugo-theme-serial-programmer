@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Jekyll Serial Programmer</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Jekyll Serial Programmer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>me@example.com (sharadcodes)</managingEditor>
+    <webMaster>me@example.com (sharadcodes)</webMaster>
+    <copyright>2021 Janne Kemppainen All rights reserved</copyright>
+    <lastBuildDate>Thu, 04 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hugo</title>
+      <link>/tags/hugo/</link>
+      <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
+      <author>me@example.com (sharadcodes)</author>
+      <guid>/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fiction</title>
+      <link>/tags/fiction/</link>
+      <pubDate>Sun, 12 Dec 1948 10:18:00 +0000</pubDate>
+      <author>me@example.com (sharadcodes)</author>
+      <guid>/tags/fiction/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
