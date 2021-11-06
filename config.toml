@@ -1,6 +1,6 @@
 baseURL = "/hugo-theme-serial-programmer/"
 languageCode = "en-us"
-title = "Jekyll Serial Programmer"
+title = "Hugo Serial Programmer"
 rssLimit = 20
 copyright = "2021 Janne Kemppainen All rights reserved"
 minify = false
