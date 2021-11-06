@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "hugo-theme-serial-programmer"
 languageCode = "en-us"
 title = "Jekyll Serial Programmer"
 rssLimit = 20
