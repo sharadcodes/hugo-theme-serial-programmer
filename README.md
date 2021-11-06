@@ -17,10 +17,6 @@
 6. Change the `config.toml` & `data/author.yml` files as you like.
 7. Upload the files on your repository and :sunglasses: enjoy.
 
-## Alert!
-
-Don't touch `tags.js` inside `assets/js` folder unless you know what you're doing, it is used for generating links for the particular category pill you click on.
-
 # Screenshots
 
 ## PC BLOG PAGE
