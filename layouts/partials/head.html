@@ -5,7 +5,6 @@
   <title>{{ if eq .IsHome true }}{{ site.Title }}{{ else }}{{ .Title }} | {{ site.Title }}{{ end }}</title>
   {{ if .IsPage -}}
   <link rel="stylesheet" href="{{site.BaseURL}}assets/css/post.css" />
-  <link rel="stylesheet" href="{{site.BaseURL}}assets/css/syntax.css" />
   <script defer src="{{site.BaseURL}}assets/js/lbox.js"></script>
   {{ else }}
   <link rel="stylesheet" href="{{site.BaseURL}}assets/css/blog.css" />
