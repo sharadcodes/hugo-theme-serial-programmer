@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hugo on Jekyll Serial Programmer</title>
-    <link>/tags/hugo/</link>
+    <link>hugo-theme-serial-programmer/tags/hugo/</link>
     <description>Recent content in hugo on Jekyll Serial Programmer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>me@example.com (sharadcodes)</managingEditor>
     <webMaster>me@example.com (sharadcodes)</webMaster>
     <copyright>2021 Janne Kemppainen All rights reserved</copyright>
-    <lastBuildDate>Thu, 04 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="hugo-theme-serial-programmer/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo Markdown</title>
-      <link>/2021/11/04/hugo-markdown/</link>
+      <link>hugo-theme-serial-programmer/2021/11/04/hugo-markdown/</link>
       <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
       <author>me@example.com (sharadcodes)</author>
-      <guid>/2021/11/04/hugo-markdown/</guid>
+      <guid>hugo-theme-serial-programmer/2021/11/04/hugo-markdown/</guid>
       <description>Text can be bold, italic, strikethrough or keyword
 Link to another page.
 There should be whitespace between paragraphs.
@@ -26,10 +26,10 @@ Header 1 This is a normal paragraph following a header. GitHub is a code hosting
     
     <item>
       <title>The Purpose of Education</title>
-      <link>/1948/12/12/the-purpose-of-education/</link>
+      <link>hugo-theme-serial-programmer/1948/12/12/the-purpose-of-education/</link>
       <pubDate>Sun, 12 Dec 1948 10:18:00 +0000</pubDate>
       <author>me@example.com (sharadcodes)</author>
-      <guid>/1948/12/12/the-purpose-of-education/</guid>
+      <guid>hugo-theme-serial-programmer/1948/12/12/the-purpose-of-education/</guid>
       <description>As I engage in the so-called &amp;ldquo;bull sessions&amp;rdquo; around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the &amp;ldquo;brethren&amp;rdquo; think that education should equip them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.</description>
     </item>
     

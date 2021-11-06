@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Jekyll Serial Programmer</title>
-    <link>/categories/</link>
+    <link>hugo-theme-serial-programmer/categories/</link>
     <description>Recent content in Categories on Jekyll Serial Programmer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>me@example.com (sharadcodes)</managingEditor>
     <webMaster>me@example.com (sharadcodes)</webMaster>
-    <copyright>2021 Janne Kemppainen All rights reserved</copyright><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>2021 Janne Kemppainen All rights reserved</copyright><atom:link href="hugo-theme-serial-programmer/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
